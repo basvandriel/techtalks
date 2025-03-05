@@ -34,6 +34,10 @@
 - `mhutchie.git-graph`
 - `GitHub.vscode-pull-request-github`
 - `charliermarsh.ruff`
+
+### Git integration
+- Comitting and pushing.
+- Creating pull requests.
   
 ### Project setups
 - Always work project-specific in a virtual environment.
