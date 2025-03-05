@@ -1,20 +1,25 @@
 # Talk
 
-Hi all,
 ## Summary
 - Great to make the first tech talk happen, and again, thanks to Svend for organizing it. 
-- Hopefully I can convince some of you to use VSCode as well, it’s not an IDE - it’s a text eaditor.
-- I want to share some tips and tricks from my setup that increaes my productivity.
+- I want to share some tips and tricks from my setup that increaes my productivity. Where I can Hhopefully I can convince some of you to use VSCode as well.
 - Maybe I can help you guys setup some of these during this session too.
+- I prepared a list of topics i want to go through. Let me show you some things first, and then let's go ahead in configurating in.
 
 
 ## Content
+
+### Global configuration
+- Choose a dark colored theme - it doesn't hurt your eyes.
+- Sidebar to the right
+
 ### Hotkeys
 **CMD+J**: Open up bottom panel
 **CMD+B**: Open up side panel
 **CMD+P**: Open file explorer
 **CMD+R**: Open recent projects
 **CMD+K+V**: Open recent projects
+**CMD+K+Z**: Zen Mode
 
 ### Testing and debugging configuration
 - Setup test explorer
@@ -29,14 +34,6 @@ Hi all,
 - `mhutchie.git-graph`
 - `GitHub.vscode-pull-request-github`
 - `charliermarsh.ruff`
-- `tonybaloney.vscode-pets`
   
-### Global configuration
-- Sidebar to the right
-- Choose a dark colored theme - it doesn't hurt your eyes.
-
-### Git integration
-- 
-
 ### Project setups
 - Always work project-specific in a virtual environment.
