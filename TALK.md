@@ -9,6 +9,7 @@ Why VSCode? I think it's a minimal text editor that you can customize to your li
 
 ### Hotkeys
 - **`CMD+J`**: Open up bottom panel
+- **`CTRL+BACKTICK`**: Open up terminal
 - **`CMD+B`**: Open up side panel
 - **`CMD+P`**: Open file explorer
 - **`CMD+R`**: Open recent projects
@@ -16,9 +17,11 @@ Why VSCode? I think it's a minimal text editor that you can customize to your li
 - **`CMD+K+Z`**: Zen Mode
 - **`CMD+SHIFT+P`**: Open command palette
 
+**Mac-only shortcuts**: `CTRL+CMD+F`, `CTRL+LEFT/RIGHT_ARROW`
+
 ### Testing and debugging configuration
-- Setup test explorer
-- Setup launch configuration per test
+- Setting up the test explorer
+- Configuring a `launch.json` file per test.
 
 ### Useful extensions
 - `ms-python.mypy-type-checker`: type checking for Python.
@@ -40,8 +43,3 @@ Why VSCode? I think it's a minimal text editor that you can customize to your li
 ### Worth looking into
 - Multi-cursor editing
 - GitHub Copilot
-
-### Mac-only hot keys
-- `CTRL+CMD+F`: Full screen
-- `CTRL+LEFT_ARROW`: Move to window to the left
-- `CTRL+RIGHT_ARROW`: Move to window to the right
