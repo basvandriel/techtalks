@@ -13,7 +13,7 @@ Why VSCode? I think it's a minimal text editor that you can customize to your li
 - **`CMD+B`**: Open up side panel
 - **`CMD+P`**: Open file explorer
 - **`CMD+R`**: Open recent projects
-- **`CMD+K+V`**: Open recent projects
+- **`CMD+K+V`**: Open markdown preview.
 - **`CMD+K+Z`**: Zen Mode
 - **`CMD+SHIFT+P`**: Open command palette
 
